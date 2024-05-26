@@ -1,0 +1,9 @@
+import React from 'react';
+
+const Article = () => {
+  return (
+    <div>
+      <h1>Article</h1>
+    </div>
+  );
+};
